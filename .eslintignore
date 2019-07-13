@@ -1,0 +1,10 @@
+/functions/mock/**
+/scripts
+/config
+/src/assets
+/src/components
+/src/e2e
+/node_modules
+/public
+# serviceWorker
+src/serviceWorker.js
